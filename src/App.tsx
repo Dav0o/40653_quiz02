@@ -20,7 +20,7 @@ function App() {
   
   return (
     <>
-      <h1>Quiz 02</h1>
+      <h1>Quiz 02 David</h1>
        <Stepper/>
        <Content/>
       <div className='flex'>
